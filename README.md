@@ -1,5 +1,5 @@
-# Naan-Mudhalvan-Django
+Naan Mudhalvan project
 
-Naan Mudhalvan Project
+Name : MANOJ V Reg no. :731121205025 College : Government College of Engineering,Erode.
 
-  Notes Sharing web application using Django
+To login in project: username : Admin password : Admin123
